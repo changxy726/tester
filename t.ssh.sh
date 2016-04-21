@@ -1,4 +1,5 @@
 #!/bin/sh
+#连接服务器脚本
 file_host=/Users/changxingyu/workspace/hosts/testin_online_hosts
 file_key=/Users/changxingyu/workspace/keys/testinops/id_rsa
 
